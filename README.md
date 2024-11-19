@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love poetry, baking, and solving challenging problems!
 
 📫 **How to reach me**:
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/sai-abhishek-chakka/
+- Email: saiabhishek0119@gmail.com
 
 🛠️ **Tech Stack**:
 - Languages: Python, R, SQL, JavaScript, HTML/CSS
