@@ -15,8 +15,7 @@
 - Tools: TensorFlow, PyTorch, Scikit-Learn, Docker, Kubernetes
 - Visualization: Tableau, Power BI, Matplotlib, Seaborn
 
-🏆 **Stats**:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
 
 📝 **Recent Projects**:
 - [Project Name 1](https://github.com/YourUsername/Project1) - Description
