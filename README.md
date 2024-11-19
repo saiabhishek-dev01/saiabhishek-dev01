@@ -7,10 +7,17 @@
 - ⚡ Fun fact: I love poetry, baking, and solving challenging problems!
 
 📫 **How to reach me**:
-- LinkedIn: https://www.linkedin.com/in/sai-abhishek-chakka/
-- Email: saiabhishek0119@gmail.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- Email: your-email@example.com
 
 🛠️ **Tech Stack**:
 - Languages: Python, R, SQL, JavaScript, HTML/CSS
 - Tools: TensorFlow, PyTorch, Scikit-Learn, Docker, Kubernetes
 - Visualization: Tableau, Power BI, Matplotlib, Seaborn
+
+🏆 **Stats**:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+📝 **Recent Projects**:
+- [Project Name 1](https://github.com/YourUsername/Project1) - Description
+- [Project Name 2](https://github.com/YourUsername/Project2) - Description
