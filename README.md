@@ -11,10 +11,12 @@
 - Email: your-email@example.com
 
 🛠️ **Tech Stack**:
-- Languages: Python, R, SQL, JavaScript, HTML/CSS
-- Tools: TensorFlow, PyTorch, Scikit-Learn, Docker, Kubernetes
-- Visualization: Tableau, Power BI, Matplotlib, Seaborn
-
+Languages & Scripting: Python, R, SQL, C++, Java, C# , Scala, Flask, Javascript
+Database & Cloud Platforms: AWS (EC2, S3, Redshift, SageMaker), PostgreSQL, MySQL, Snowflake, Databricks,
+ (GCP) Google Cloud Platform- BigQuery, Azure, Apache Spark, Kafka, Pinecone, Hadoop, Terraform
+Machine Learning & AI: PyTorch, Keras, Tensorflow, LLM, Transformers, NumPy, Pandas, LangChain, OpenCV
+Data Visualization: Seaborn, Matplotlib, Grafana, Alteryx, Tableau, Power BI
+Developer Tools: Kubeflow, Dataiku, Prometheus, Jira, MLflow, Git, ETL Tools, Kubernetes, Docker, Excel, MATLAB
 
 
 📝 **Recent Projects**:
