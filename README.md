@@ -64,6 +64,7 @@ Welcome to my GitHub! I'm currently pursuing my Master's degree at the Universit
 | AI Solution for Predictive Modeling | 🟡 In Progress         | 60%           |
 | Data Pipeline Automation        | 🟢 Ongoing             | 80%           |
 | Custom NLP Model Development    | 🔵 Research Phase      | 30%           |
+| Leetcode Python - DSA           | 🟢 Ongoing             |  55%           |
 
 
 ---
@@ -86,6 +87,36 @@ I'm always excited to collaborate on projects that involve:
 Feel free to explore my repositories and reach out to me!  
 
 ---
+
+---
+
+## 🌱 **Let’s Connect!**
+
+I’d love to collaborate, discuss ideas, or help you with your projects! Feel free to reach out via any of the platforms below:
+
+<div align="center">
+    <a href="https://linkedin.com/in/sai-abhishek-chakka" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.kaggle.com/saiabhishekchakka" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://medium.com/@saiabhishekchakka" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://linktr.ee/saiabhishekchakka" target="_blank">
+        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
+    <a href="https://github.com/saiabhishekchakka" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://drive.google.com/file/d/your-resume-link-here" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    </a>
+</div>
+
+
+
 
 📧 **Email**: saiabhishek0119@gmail.com  
 🌐 **LinkedIn**: [Sai Abhishek Chakka](https://linkedin.com/sai-abhishek-chakka)
