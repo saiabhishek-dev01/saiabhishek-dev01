@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Abhishek Chakka
 
-🎓 **Master's in Computer Science (AI/ML)** | 📍 Buffalo, NY  
+🎓 **Master's in Computer Science (AI/ML)** | 📍 NEW YORK, USA  
 🌟 Passionate about transforming cutting-edge AI/ML technologies into impactful real-world solutions.
 
 Welcome to my GitHub! I'm currently pursuing my Master's degree at the University at Buffalo, specializing in Artificial Intelligence and Machine Learning. With a strong foundation in software engineering and machine learning, I've built and contributed to projects spanning predictive modeling, NLP, computer vision, and AI-driven solutions. 
