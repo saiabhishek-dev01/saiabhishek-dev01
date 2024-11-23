@@ -69,11 +69,21 @@ Welcome to my GitHub! I'm currently pursuing my Master's degree at the Universit
 
 ---
 
-## 🏆 **Achievements**
+### 🏆 **Achievements**
 
-- Awarded **State Award** for developing a real-time neural network model enhancing women’s safety.  
-- Winner of **Best Academic Project** at ITYUKTA, recognized by the Dean of Engineering.  
-- 2nd place in **IoT Design Hackathon** at the State-Level Computer Society of India conference.
+- **State Award Recipient**: Recognized for developing an innovative real-time neural network model to enhance women’s safety.  
+- **Best Academic Project Award**: Honored by the Dean of Engineering at ITYUKTA for exceptional contributions to the Project Open House Expo.  
+- **IoT Design Hackathon – 2nd Place**: Secured the runner-up position at the State-Level Computer Society of India conference for designing a cutting-edge IoT solution.  
+- **Published Research Papers**:  
+  - **“An Approach to Predicting and Optimizing User Satisfaction using Machine Learning Models”**: Published in **[International Journal of Computer Applications (IJCA)]**, focusing on improving customer experience using predictive analytics.  
+  - **“Enhanced Deep Learning Methods for Detecting and Classifying Anomalies in Video Streams”**: Presented at the **International Conference on Recent Innovations in Engineering and Technology (ICRIET)**, addressing challenges in computer vision and real-time anomaly detection.  
+  - Explore all my research work on [ResearchGate](https://www.researchgate.net/profile/Sai-Abhishek-Chakka/research).  
+- **Technical Workshop Organizer**: Conducted hands-on workshops on Machine Learning, Neural Networks, and Python programming, attended by over 100 participants.  
+- **Tech Editorial Magazine club**: Led the publication of **Ityukta** university’s **Tech Editorial Newsletter**, coordinating with contributors, designers, and editorial staff to deliver high-quality content showcasing technological advancements and innovations in the world of AI / Tech.  
+- **AI/ML Hackathon Mentor**: Guided undergraduate teams in building AI prototypes during inter-university hackathons, fostering innovation and practical problem-solving.  
+- **Excellence in Academic Performance**: Ranked **4th** in Bachelor’s program with a GPA of **8.76**, recognized for consistent academic excellence.  
+- **National Conference Presenter**: Presented a research paper on the application of AI in predictive analytics at a prestigious national tech conference.  
+
 
 ---
 
