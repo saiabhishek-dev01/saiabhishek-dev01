@@ -14,9 +14,6 @@ Welcome to my GitHub! I'm currently pursuing my Master's degree at the Universit
 - **Data & Cloud Platforms**: AWS SageMaker, Databricks, Snowflake, Apache Spark, Azure  
 - **Visualization & Tools**: Tableau, Power BI, Grafana, MLflow, Kubeflow  
 
----
-
-### 🛠️ **Tech Stack**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
