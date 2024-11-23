@@ -44,6 +44,32 @@ Welcome to my GitHub! I'm currently pursuing my Master's degree at the Universit
 
 ---
 
+## 🛠️ **What I’m Working On**
+
+- 🚀 **AI/ML-Driven Solutions**: Building intelligent systems to address real-world challenges.  
+  **Status**: In Progress 🟡  
+  **Next Milestone**: Deploying predictive model on AWS SageMaker.
+
+- 📈 **Scalable Data Pipelines**: Designing and implementing data workflows for analytics and ML models.  
+  **Status**: Ongoing 🟢  
+  **Next Milestone**: Automating pipeline monitoring using Grafana and MLflow.
+
+- 🤖 **NLP and Computer Vision Experiments**: Exploring advanced techniques to push state-of-the-art models.  
+  **Status**: R&D Phase 🔵  
+  **Focus Area**: Transfer learning for domain-specific LLMs.
+
+---
+
+### 🔄 **Progress Tracker**
+| **Project**                    | **Current Status**      | **Completion** |
+|---------------------------------|-------------------------|----------------|
+| AI Solution for Predictive Modeling | 🟡 In Progress         | 60%           |
+| Data Pipeline Automation        | 🟢 Ongoing             | 80%           |
+| Custom NLP Model Development    | 🔵 Research Phase      | 30%           |
+
+
+---
+
 ## 🏆 **Achievements**
 
 - Awarded **State Award** for developing a real-time neural network model enhancing women’s safety.  
