@@ -42,9 +42,7 @@ Welcome to my GitHub! I'm currently pursuing my Master's degree at the Universit
 - Developing scalable data pipelines and deploying predictive models on cloud platforms.  
 - Experimenting with advanced NLP and computer vision applications.
 
----
 
-## 🛠️ **What I’m Working On**
 
 - 🚀 **AI/ML-Driven Solutions**: Building intelligent systems to address real-world challenges.  
   **Status**: Planning 🟡  
