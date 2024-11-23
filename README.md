@@ -25,7 +25,6 @@ Welcome to my GitHub! I'm currently pursuing my Master's degree at the Universit
     <img src="https://img.shields.io/badge/LLM-5A0FC8?style=for-the-badge&logo=OpenAI&logoColor=white" alt="LLM" />
     <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Databricks-FE4C4C?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
